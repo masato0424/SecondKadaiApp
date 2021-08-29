@@ -13,6 +13,7 @@
 		A119EA8126DB52F70062AB4C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A119EA7F26DB52F70062AB4C /* Main.storyboard */; };
 		A119EA8326DB52FA0062AB4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A119EA8226DB52FA0062AB4C /* Assets.xcassets */; };
 		A119EA8626DB52FA0062AB4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A119EA8426DB52FA0062AB4C /* LaunchScreen.storyboard */; };
+		A119EA9026DB85030062AB4C /* ShowNameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A119EA8F26DB85030062AB4C /* ShowNameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A119EA8226DB52FA0062AB4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A119EA8526DB52FA0062AB4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A119EA8726DB52FA0062AB4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A119EA8F26DB85030062AB4C /* ShowNameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowNameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				A119EA7B26DB52F70062AB4C /* SceneDelegate.swift */,
 				A119EA7D26DB52F70062AB4C /* ViewController.swift */,
 				A119EA7F26DB52F70062AB4C /* Main.storyboard */,
+				A119EA8F26DB85030062AB4C /* ShowNameViewController.swift */,
 				A119EA8226DB52FA0062AB4C /* Assets.xcassets */,
 				A119EA8426DB52FA0062AB4C /* LaunchScreen.storyboard */,
 				A119EA8726DB52FA0062AB4C /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A119EA9026DB85030062AB4C /* ShowNameViewController.swift in Sources */,
 				A119EA7E26DB52F70062AB4C /* ViewController.swift in Sources */,
 				A119EA7A26DB52F70062AB4C /* AppDelegate.swift in Sources */,
 				A119EA7C26DB52F70062AB4C /* SceneDelegate.swift in Sources */,
